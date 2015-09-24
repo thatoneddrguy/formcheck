@@ -26,6 +26,10 @@
      * });
      * </script>
      * 
+     * //if ($_SERVER["REQUEST_METHOD"]=="POST")
+     * //{
+     * //   $first = test_input($first); //test_input is a separate function that he wrote
+     * //}
      */
     if(isset($_POST['first']))
     {
