@@ -4,7 +4,7 @@
     $last = $_POST['last'];
     $price = $_POST['price'];
     $badname = false;
-    if(len(trim($first))<=0)
+    if(strlen(trim($first))<=0)
     {
         $badname = true;
     }
