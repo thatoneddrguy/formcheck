@@ -17,7 +17,7 @@
      * jquery:
      * <script>
      *  $(document).ready( function() {
-     * 
+     *      $("div").css("color","red");
      * });
      * </script>
      * 
