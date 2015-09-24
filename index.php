@@ -18,7 +18,8 @@
      * <script>
      *  $(document).ready( function() {
      *      $("div").css("color","red");
-     *      $("h2").css("background-color","blue");
+     *      $("h2.t1").css("background-color","blue");
+     *      $("#date").datepicker(); <- this is from google's hosted UI library
      * });
      * </script>
      * 
