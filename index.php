@@ -18,6 +18,7 @@
      * <script>
      *  $(document).ready( function() {
      *      $("div").css("color","red");
+     *      $("h2").css("background-color","blue");
      * });
      * </script>
      * 
