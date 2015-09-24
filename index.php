@@ -12,6 +12,16 @@
      *  //do the stuff below
      *}
      */
+    
+    /*
+     * jquery:
+     * <script>
+     *  $(document).ready( function() {
+     * 
+     * });
+     * </script>
+     * 
+     */
     if(isset($_POST['first']))
     {
         $first = $_POST['first'];
