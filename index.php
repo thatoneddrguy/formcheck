@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php
+    //purpose of this page was to practice form validation. all client-side iirc. didn't really take notes on validation specifically though.
     session_start();
     /*if(! isset($_SESSION['firsttime']))
      *{
